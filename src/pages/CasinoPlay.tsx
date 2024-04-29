@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import { styled } from "@mui/system";
 import Header from '../partials/Header';
 import GameDisplay from '../partials/GameDisplay';
